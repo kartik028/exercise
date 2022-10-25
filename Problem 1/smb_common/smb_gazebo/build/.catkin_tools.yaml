@@ -1,0 +1,6 @@
+devel_space: /home/kartik/Exercise/Problem 1/smb_common/smb_gazebo/devel
+install: false
+install_space: /home/kartik/Exercise/Problem 1/smb_common/smb_gazebo/install
+profile: default
+source_space: /home/kartik/Exercise/Problem 1/smb_common/smb_gazebo/src
+workspace: /home/kartik/Exercise/Problem 1/smb_common/smb_gazebo
